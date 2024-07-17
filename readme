@@ -1,1 +1,1 @@
-docker pull nsantos07/nginx-fullcycle
+docker push nsantos07/nginx-fullcycle
